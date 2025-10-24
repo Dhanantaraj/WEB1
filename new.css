@@ -84,15 +84,7 @@ body {
   display: initial;
 }
 
-.header .navigation ul li ul li span {
-  float: right;
-  color: var(--color-white);
-  background: var(--color-primary-dark);
-  padding: 5px 10px;
-  font-size: 12px;
-  text-align: center;
-  border-radius: 5px;
-}
+
 
 #toggle ,
 .header label {
@@ -138,7 +130,7 @@ body {
   }
 
   .header .navigation ul li ul li {
-    background: var(--color-primary);
+    background: purple;
   }
 
   .header .navigation ul li ul li ul {
@@ -153,4 +145,5 @@ body {
     display: block;
   }
 }
+
 
